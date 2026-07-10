@@ -1,4 +1,4 @@
-# Selah
+# Selah 
 
 #### A Christian music recommendation app built by an D1 Athlete at Hampton University
 Selah is a full stack music recommendation app that surfaces Christian music across several genres which include rap, R&B, Afrobeats, Amapiano, reggae, reggaeton and more. The music is recommended based on who you are, the type of music you enjoy, and how you are feeling. 
