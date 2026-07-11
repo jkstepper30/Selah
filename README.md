@@ -1,4 +1,4 @@
-# Selah <img width="480" height="480" alt="PartyPlayingGIFbyWindrich Sörgel" src="https://github.com/user-attachments/assets/1e050b25-0e99-436c-8d40-9578ae42feb5" />
+# Selah <img width="20" height="20" alt="PartyPlayingGIFbyWindrich Sörgel" src="https://github.com/user-attachments/assets/1e050b25-0e99-436c-8d40-9578ae42feb5" />
 
 
 #### A Christian music recommendation app built by an D1 Athlete at Hampton University
