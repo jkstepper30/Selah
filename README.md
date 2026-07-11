@@ -1,4 +1,5 @@
-# Selah 
+# Selah <img width="480" height="480" alt="PartyPlayingGIFbyWindrich Sörgel" src="https://github.com/user-attachments/assets/1e050b25-0e99-436c-8d40-9578ae42feb5" />
+
 
 #### A Christian music recommendation app built by an D1 Athlete at Hampton University
 Selah is a full stack music recommendation app that surfaces Christian music across several genres which include rap, R&B, Afrobeats, Amapiano, reggae, reggaeton and more. The music is recommended based on who you are, the type of music you enjoy, and how you are feeling. 
