@@ -11,7 +11,7 @@ No platform that I've seen does this well. Spotify or Apple Music doesn't ask yo
 --> Live app
 
 ## Tech Stack 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/cc25bafb-1425-422e-b2dd-2fe343593014" />
+<img width="480" height="350" alt="image" src="https://github.com/user-attachments/assets/cc25bafb-1425-422e-b2dd-2fe343593014" />
 
 
 
