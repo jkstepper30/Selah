@@ -15,7 +15,10 @@ No platform that I've seen does this well. Spotify or Apple Music doesn't ask yo
 
 
 ## Features
-- 
+- Mood-based recommendations — 7 moods including Motivated, Anxious, Reflective, Joyful, Locked In, Gym Mode, and Grateful, 
+- 9 genres — Christian rap, R&B, Afrobeats gospel, Amapiano gospel, Christian reggae, Reggaeton cristiano, Contemporary worship, Traditional gospel, Gospel EDM 
+- Artist discovery — 70+ artists with profiles, themes, and origin stories
+- Song library — 100+ songs (growing), each tagged with mood, BPM, energy level, and faith themes
 
 
 
